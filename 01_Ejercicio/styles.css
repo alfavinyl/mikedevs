@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  font-family: "roboto", sans-serif;
+  background-color: gray;  
+ 
+}
+/*ESTILOS PARA TITULO*/
+h1{
+  color: white;
+  text-align: center;
+  background-color: blue;
+  padding: 2rem;
+}
